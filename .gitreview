@@ -1,4 +1,3 @@
 [gerrit]
-host=review.openstack.org
-port=29418
-project=openstack/rally.git
+host=cloud-review.cisco.com
+project=cisco-oss-eng/rally.git
